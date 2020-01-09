@@ -1,0 +1,2 @@
+cmd命令进入到项目的根目录下
+执行mvn mybatis-generator:generate即可
